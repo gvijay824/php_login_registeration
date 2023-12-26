@@ -1,6 +1,3 @@
-<!-- <?php
-    $con = mysqli_connect("localhost","root","","simple") or die("couldn't connect");
-    ?> -->
 
 <?php
 $servername = "localhost";
